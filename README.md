@@ -107,7 +107,13 @@ Bilgi teorisinde, iki olasılık dağılımı arasındaki ve aynı temel olaylar
 
 # Gradient Descent
 
-Minumum değere ulaşmak için uygulanan adım
+Minumum değere ulaşmak için uygulanan adım.
+
+![Screenshot_2020-03-05_21-50-42](https://user-images.githubusercontent.com/54184905/76021209-e221e900-5f35-11ea-9eb7-9eed99c4e198.png)
+
+
+(Karşılaştığımız hatalar)
+
 
 
 
