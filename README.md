@@ -22,3 +22,14 @@ Y = sigmoid(L) şeklinde
 ![Screenshot_2020-03-04_19-51-08](https://user-images.githubusercontent.com/54184905/76018680-881f2480-5f31-11ea-946e-43716580461c.png)
 
 (Resimde 2 rakamının yapay sinir ağlarından geçişi)
+
+# Aktivasyon fonksiyonları
+
+![Screenshot_2020-03-04_19-57-44](https://user-images.githubusercontent.com/54184905/76018888-e6e49e00-5f31-11ea-93d2-a1940b46e129.png)
+
+1-) Sigmoid
+
+* sayıları [0,1] arasında sıkıştırır.
+* Gradient ölümlü olabiliyor.
+* 0 odaklı değil.
+* exp() hesaplaması yapar ve yavaş çalışır
