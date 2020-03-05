@@ -184,5 +184,13 @@ bu da çıktının boyutunu değiştirir.
 
 ![Screenshot_2020-03-05_22-19-37](https://user-images.githubusercontent.com/54184905/76023441-40e96180-5f3a-11ea-943f-7eb630be2c61.png)
 
+# ---------------------
 
+Bu öğrendiklerinizi pekiştirmek için:
+
+1-) https://github.com/AhmetFurkanDEMIR/Artificial-Neural-Networks
+
+2-) https://playground.tensorflow.org/
+
+adreslerini ziyaret ediniz.
 
