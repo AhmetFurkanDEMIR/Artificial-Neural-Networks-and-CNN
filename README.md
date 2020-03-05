@@ -77,3 +77,8 @@ Y = sigmoid(L) şeklinde
 * Eğitim esnasında zamanla sıfıra yaklaşmasını bekleriz.
 * y_vals = tf.abs(tagret - x_vals)
 * Tahmin ne kadar doğru diye matematiksel işlem yaparız.
+
+![Screenshot_2020-03-04_21-00-56](https://user-images.githubusercontent.com/54184905/76020190-07adf300-5f34-11ea-8178-03dddef8b511.png)
+
+# L2 Loss Fonksiyonları
+
