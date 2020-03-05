@@ -98,5 +98,11 @@ Bilgi teorisinde, iki olasılık dağılımı arasındaki ve aynı temel olaylar
 
 # Öğrenme Oranı (Learning Rate)
 
+* Atacağımız adımları sembolize eder.
+* Çok küçük bir sayı atanır (örn: 0,0005)
+* Büyük olursa minumuma ulaşamaz.
+* Küçük olursa model yavaş eğitilir.
+
+
 
 
