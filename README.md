@@ -152,4 +152,12 @@ böylece az bir veriyi 2 katına çıkarta biliriz.
 
 Bağzı nöronları sıfırlayarak, eğitimi eşit bir şekilde dağıtırız yani verileri bir kaç nörona odaklamayız.
 
+![Screenshot_2020-03-05_22-05-10](https://user-images.githubusercontent.com/54184905/76022458-40e86200-5f38-11ea-814c-e5ced6058647.png)
+
+# CNN (Konvolüsyonel Sinir Ağları)
+
+* Resmi düzeltip vektör haline getirmeyiz, yani resmi üç boyutlu kullanırız.
+* weight olarak küçük filitreler kullanacağız (örn: 3x3x3 bir filitre)
+* Filitre resim üzerinde pixel pixel kayar.
+
 
