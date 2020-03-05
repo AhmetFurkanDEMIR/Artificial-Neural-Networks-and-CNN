@@ -92,3 +92,11 @@ Hedeften ne kadar uzaklaşırsa o kadar fazla ceza veririz.
 
 # Cross Entropy Loss Fonksiyonu
 
+![Screenshot_2020-03-04_21-09-15](https://user-images.githubusercontent.com/54184905/76020590-c36f2280-5f34-11ea-8614-d0604e0aaac9.png)
+
+Bilgi teorisinde, iki olasılık dağılımı arasındaki ve aynı temel olaylar kümesinin üzerindeki çapraz entropi, küme için kullanılan bir kodlama şeması tahmini bir olasılık dağılımı için optimize edilmişse kümeden çizilen bir olayı tanımlamak için gereken ortalama bit sayısını ölçer.
+
+# Öğrenme Oranı (Learning Rate)
+
+
+
