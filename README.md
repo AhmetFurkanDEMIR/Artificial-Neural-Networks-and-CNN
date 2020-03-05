@@ -27,9 +27,49 @@ Y = sigmoid(L) şeklinde
 
 ![Screenshot_2020-03-04_19-57-44](https://user-images.githubusercontent.com/54184905/76018888-e6e49e00-5f31-11ea-93d2-a1940b46e129.png)
 
+
 1-) Sigmoid
 
-* sayıları [0,1] arasında sıkıştırır.
+* Sayıları [0,1] arasında sıkıştırır.
 * Gradient ölümlü olabiliyor.
 * 0 odaklı değil.
-* exp() hesaplaması yapar ve yavaş çalışır
+* exp() hesaplaması yapar ve yavaş çalışır.
+
+
+2-) Tanh
+
+* [-1,1] arasına sıkıştırır.
+* Sıfır odaklı.
+* Hayla gradient ölümlü olabiliyor.
+
+
+3-) ReLu
+
+* Negatifse 0, pozitifse olduğu gibi geçer.
+* Gradient ölümü yok.
+* Bilgisayarın hesaplaması daha kolay.
+* Biyolojik nörona daha yakın.
+* 0 odaklı değil.
+* Bazı nöronlar ölebiliyor.
+
+
+4-) Leaky Relu
+
+* Relu 'nun getirdiği tüm avantajlar.
+* 0 odaklı olduğu için nöron ölümü yok.
+
+
+5-) Exponential Linear Unit (ELU)
+
+* Leaky relu ile aynı avantaja sahip.
+* exp() kullandığı için biraz daha yavaştır.
+
+
+6-) Maxout
+
+* Relu ve Leaky Relu 'yu genelleştiriyor.
+* Nöron ölümü yok.
+* Parametre sayısı iki katına çıkar.
+
+# LOSS (Cost) Fonksiyonları
+
