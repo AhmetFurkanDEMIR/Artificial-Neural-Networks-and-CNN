@@ -111,6 +111,7 @@ Minumum değere ulaşmak için uygulanan adım.
 
 ![Screenshot_2020-03-05_21-50-42](https://user-images.githubusercontent.com/54184905/76021209-e221e900-5f35-11ea-9eb7-9eed99c4e198.png)
 
+![Screenshot_2020-03-05_21-51-44](https://user-images.githubusercontent.com/54184905/76021349-34630a00-5f36-11ea-9c8f-8081518e8b30.png)
 
 (Karşılaştığımız hatalar)
 
