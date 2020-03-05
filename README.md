@@ -103,6 +103,11 @@ Bilgi teorisinde, iki olasılık dağılımı arasındaki ve aynı temel olaylar
 * Büyük olursa minumuma ulaşamaz.
 * Küçük olursa model yavaş eğitilir.
 
+![Screenshot_2020-03-05_21-48-46](https://user-images.githubusercontent.com/54184905/76021057-9d964d80-5f35-11ea-945b-89555a18a094.png)
+
+# Gradient Descent
+
+Minumum değere ulaşmak için uygulanan adım
 
 
 
