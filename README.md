@@ -82,3 +82,13 @@ Y = sigmoid(L) şeklinde
 
 # L2 Loss Fonksiyonları
 
+![Screenshot_2020-03-04_21-05-23](https://user-images.githubusercontent.com/54184905/76020362-53609c80-5f34-11ea-87ab-355a19656dd6.png)
+
+y = doğru olan değer
+
+f(x) = tahmin
+
+Hedeften ne kadar uzaklaşırsa o kadar fazla ceza veririz.
+
+# Cross Entropy Loss Fonksiyonu
+
