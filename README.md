@@ -174,6 +174,8 @@ bu da çıktının boyutunu değiştirir.
 
 * Boyutun küçülmesine engel olmak için kenar pixellere 0 ekleyerek resmi tekrardan büyütebiliriz.
 
+![Screenshot_2020-03-05_22-13-33](https://user-images.githubusercontent.com/54184905/76023672-a2113500-5f3a-11ea-93ed-c3b4d19d03da.png)
+
 # Poolin layer
 
 * Parametre sayısını azaltmak için max pooling kullanırız.
