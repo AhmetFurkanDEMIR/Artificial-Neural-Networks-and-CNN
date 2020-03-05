@@ -165,4 +165,21 @@ Bağzı nöronları sıfırlayarak, eğitimi eşit bir şekilde dağıtırız ya
 * Output derinliği kaç tane filitre kullandıysak ona eşit olacak.
 * ilk layerler basit olur sonraki layerler komplex olur.
 
+![Screenshot_2020-03-05_22-10-39](https://user-images.githubusercontent.com/54184905/76022968-44301d80-5f39-11ea-9088-d0f09c04cb6a.png)
+
+örnek (Konvolüsyonel Layer): 32x32x3 lük bir resmi 6*( 5x5x3 ) bir filitreden geçirirsek yeni oluşacak çıktı 24x24x6 bir resim olur.
+
+* Stride = 2 olarak ayarlarsak filitre 1 pixel olarak kayacağına artık 2 pixel olarak kayar.
+bu da çıktının boyutunu değiştirir.
+
+* Boyutun küçülmesine engel olmak için kenar pixellere 0 ekleyerek resmi tekrardan büyütebiliriz.
+
+# Poolin layer
+
+* Parametre sayısını azaltmak için max pooling kullanırız.
+* Her aktivasyon haritası için ayrı ayrı uygularız (Derinliği etkilemez.)
+* Filitrelemedeki en büyük değeri alır.
+
+
+
 
