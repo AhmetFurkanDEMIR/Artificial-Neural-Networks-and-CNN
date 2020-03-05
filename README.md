@@ -126,4 +126,30 @@ Minumum değere ulaşmak için uygulanan adım.
 
 ![Screenshot_2020-03-05_23-12-45](https://user-images.githubusercontent.com/54184905/76021833-0b8f4480-5f37-11ea-9bda-588e98c4bf62.png)
 
+# Overfitting
+
+* Eğitilen modelin eğitim setini çok iyi öğrenip genelleştirme yapamamasına denir
+* Underfitting ise tam tersi, modelin veriyi hiç öğrenememesidir.
+* Algoritma ezber yapar, daha önce karşılaşmadığı bir veri görünce yanlış sonuçlar verir.
+
+# Regularization
+
+* Daha iyi genelleştirme yapılmasını sağlar
+
+1-) Daha fazla data
+
+Algoritmaya verdiğiniz veri sayısı ve verinin verimliliği size daha iyi sonuçlar verir.
+
+2-) Data Augmentation
+
+Verilerin üzerinde oynamalar yaparak (ters çevirme, büyültme küçültme gibi) yeni veri oluşturulur.
+
+böylece az bir veriyi 2 katına çıkarta biliriz.
+
+3-) Loss fonksiyonuna ekstra fonksiyon ekle
+
+4-) Dropout
+
+Bağzı nöronları sıfırlayarak, eğitimi eşit bir şekilde dağıtırız yani verileri bir kaç nörona odaklamayız.
+
 
