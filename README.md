@@ -160,4 +160,9 @@ Bağzı nöronları sıfırlayarak, eğitimi eşit bir şekilde dağıtırız ya
 * weight olarak küçük filitreler kullanacağız (örn: 3x3x3 bir filitre)
 * Filitre resim üzerinde pixel pixel kayar.
 
+![Screenshot_2020-03-05_22-09-38](https://user-images.githubusercontent.com/54184905/76022728-c10ec780-5f38-11ea-88f3-e2d2e4f1e60f.png)
+
+* Output derinliği kaç tane filitre kullandıysak ona eşit olacak.
+* ilk layerler basit olur sonraki layerler komplex olur.
+
 
