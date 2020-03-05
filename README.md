@@ -120,5 +120,10 @@ Minumum değere ulaşmak için uygulanan adım.
 * Weight Bias değerlerini günceller.
 * Her nöronun hataya ne kadar katkısı olduğunu hesaplamak için kullanırız.
 
+![Screenshot_2020-03-05_23-12-17](https://user-images.githubusercontent.com/54184905/76021815-03cfa000-5f37-11ea-85bf-c0e9c5f8be75.png)
+
+![Screenshot_2020-03-05_23-12-26](https://user-images.githubusercontent.com/54184905/76021828-07fbbd80-5f37-11ea-8248-778cdf119884.png)
+
+![Screenshot_2020-03-05_23-12-45](https://user-images.githubusercontent.com/54184905/76021833-0b8f4480-5f37-11ea-9bda-588e98c4bf62.png)
 
 
