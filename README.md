@@ -73,3 +73,7 @@ Y = sigmoid(L) şeklinde
 
 # LOSS (Cost) Fonksiyonları
 
+* Tahmin edilen değerin gerçek değerden ne kadar uzak olduğunu hesaplar.
+* Eğitim esnasında zamanla sıfıra yaklaşmasını bekleriz.
+* y_vals = tf.abs(tagret - x_vals)
+* Tahmin ne kadar doğru diye matematiksel işlem yaparız.
