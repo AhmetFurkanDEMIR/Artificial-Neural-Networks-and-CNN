@@ -115,6 +115,10 @@ Minumum değere ulaşmak için uygulanan adım.
 
 (Karşılaştığımız hatalar)
 
+# Back Propagation (Geri Besleme)
+
+* Weight Bias değerlerini günceller.
+* Her nöronun hataya ne kadar katkısı olduğunu hesaplamak için kullanırız.
 
 
 
